@@ -1,0 +1,11 @@
+--------------------------------------Publication Records--------------------------------------
+Year		Type		Faculty		Title
+-----------------------------------------------------------------------------------------------
+2021           	Journal        	MHK            	Heat Transfer Enhancement Using CNT
+2021           	Conference     	AS             	MD Simulation of NPs
+2022           	Journal        	RAS            	Stress Analysis of Composite Beams
+2022           	Review         	MAR            	Recent Advances in Turbulent Flow
+2023           	Journal        	SA             	Thermal Behavior of Cu-Ag Nanoparticles
+2023           	Conference     	MHK            	Performance of Nano-Enhanced Coolants
+2019           	Journal        	MHK            	Performance of Nano-Enhanced Coolants
+2026           	Conference     	ANR            	Thermal Behavior of Cu-Ag Nanoparticles
