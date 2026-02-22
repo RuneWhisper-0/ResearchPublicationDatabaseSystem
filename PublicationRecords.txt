@@ -1,0 +1,8 @@
+2021      	Journal             	MHK       	Journal of Heat Transfer      	Scopus    	Heat Transfer Enhancement Using CNT
+2021      	Conference          	AS        	ICME 2021                     	Scopus    	MD Simulation of NPs
+2022      	Journal             	RAS       	Composite Structures          	WoS       	Stress Analysis of Composite Beams
+2022      	Review              	MAR       	Progress in Aerospace Sciences	SCI       	Recent Advances in Turbulent Flow
+2023      	Journal             	SA        	Applied Nanoscience           	Scopus    	Thermal Behavior of Cu-Ag Nanoparticles
+2023      	Conference          	MHK       	ICNMM 2023                    	Scopus    	Performance of Nano-Enhanced Coolants
+2019      	Journal             	MHK       	International Journal of HMT  	WoS       	Performance of Nano-Enhanced Coolants 2019
+2026      	Conference          	ANR       	ICME 2026                     	Scopus    	Thermal Behavior of Cu-Ag Nanoparticles 2026

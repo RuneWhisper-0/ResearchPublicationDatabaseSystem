@@ -1,0 +1,9 @@
+MEF-02         		RAS            		Faculty RAS                   	Associate Professor      	Solid Mechanics
+MEF-03         		SA             		Faculty SA                    	Assistant Professor      	Nanomaterials
+MEF-04         		TAH            		Faculty TAH                   	Lecturer                 	Thermodynamics
+MEF-05         		MAR            		Faculty MAR                   	Professor                	Fluid Mechanics
+MEF-06         		MIK            		Faculty MIK                   	Assistant Professor      	Thermoacoustics
+MEF-07         		MASA           		Faculty MASA                  	Professor                	NDT & E
+MEF-08         		MM             		Faculty MM                    	Professor                	CFD
+MEF-10         		ARN            		Faculty ARN                   	Professor                	CFD
+MEF-11         		ANR            		Faculty ANR                   	Associate Professor      	CFD
